@@ -1,0 +1,109 @@
+age,Sexe,Situation,Ville,Profession,UtilisateurPotentiel,TypeContrat
+45,Homme,Célibataire,Ariana,Employé(e),Oui,Contrat de location ou de vente de voiture
+29,Homme,Célibataire,La Mannouba,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+38,Homme,Célibataire,Mahdia,Cadre,Non,Contrat de travail (CDI- CDD- CIVP)
+38,Homme,Marié(e),Ben Arous,Cadre,Oui,Contrat de travail (CDI- CDD- CIVP)
+35,Femme,Marié(e),Tunis,Cadre,Non,Contrat de travail (CDI- CDD- CIVP)
+37,Femme,Célibataire,Ben Arous,Cadre,Non,Contrat de location ou de vente de voiture
+36,Femme,Marié(e),Bizerte,Employé(e),Oui,Contrat de location ou de vente de voiture
+29,Femme,Célibataire,Ariana,Freelancer,Oui,Contrat Freelancer
+35,Homme,Célibataire,Ariana,Employé(e),Oui,Contrat de location ou de vente de voiture
+26,Homme,Célibataire,Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+37,Homme,Célibataire,Tunis,Employé(e),Oui,Contrat d'assurance voyage
+39,Homme,Divorcé(e),Tunis,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+47,Femme,Marié(e),Ariana,Employé(e),Non,Contrat d'assurance voyage
+58,Femme,Marié(e),Tunis,Sans emploi,Non,Contrat d'assurance voyage
+63,Homme,Marié(e),Nabeul,Retraité(e),Oui,Contrat de vente ou d'achat de materiels
+32,Homme,Célibataire,Ariana,Freelancer,Oui,Contrat de location ou de vente de Bien immobilier
+45,Homme,Marié(e),Ariana,Employé(e),Non,Contrat Freelancer
+28,Homme,Célibataire,Le Kef,Cadre,Oui,Contrat de travail (CDI- CDD- CIVP)
+23,Homme,Célibataire,Ariana,Sans emploi,Non,Attestation de Stage
+23,Homme,Célibataire,Ariana,Sans emploi,Non,Attestation de Stage
+27,Homme,En Couple,Tunis,Employé(e),Oui,NDA- Accord de Non Divulgation
+26,Homme,En Couple,Ariana,Employé(e),Oui,NDA- Accord de Non Divulgation
+33,Homme,Célibataire,Tunis,Employé(e),Oui,Contrat de vente ou d'achat de materiels
+39,Homme,Marié(e),Tunis,Employé(e),Non,Contrat de location ou de vente de voiture
+25,Femme,Célibataire,Tunis,Sans emploi,Non,Attestation de Stage
+24,Femme,Célibataire,Ariana,Sans emploi,Non,Attestation de Stage
+27,Femme,En Couple,La Mannouba,Employé(e),Non,Contrat de location ou de vente de voiture
+35,Femme,Marié(e),Bizerte,Cadre,Oui,Contrat de vente ou d'achat de materiels
+40,Femme,Marié(e),Ariana,Cadre,Oui,Contrat de vente ou d'achat de materiels
+42,Homme,Marié(e),Tunis,Cadre,Non,Contrat de location ou de vente de voiture
+25,Femme,En Couple,Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+40,Homme,Marié(e),Tunis,Employé(e),Non,Contrat de vente ou d'achat de materiels
+24,Femme,En Couple,Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+25,Homme,Célibataire,Tunis,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+57,Femme,Marié(e),Ariana,Employé(e),Non,Contrat d'assurance voyage
+40,Homme,Marié(e),Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+26,Femme,En Couple,Nabeul,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+22,Femme,Célibataire,Tunis,Sans emploi,Non,Attestation de Stage
+42,Homme,Marié(e),Tunis,Cadre,Oui,Contrat de vente ou d'achat de materiels
+45,Homme,Marié(e),Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+25,Homme,Célibataire,Ben Arous,Sans emploi,Oui,Contrat de travail (CDI- CDD- CIVP)
+24,Femme,Célibataire,Ariana,Employé(e),Oui,"Attestation de Stage, Contrat de travail (CDI- CDD- CIVP)"
+23,Femme,En Couple,Tunis,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+33,Femme,Marié(e),Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+34,Homme,Marié(e),Tunis,"Artisans, commerçants, chef d'entreprise",Non,Contrat de travail (CDI- CDD- CIVP)
+31,Homme,Célibataire,Sidi Bouzid,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+26,Homme,Célibataire,Tunis,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+21,Homme,Célibataire,Tunis,"Artisans, commerçants, chef d'entreprise",Oui,Attestation de Stage
+21,Homme,Célibataire,Tunis,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+20,Homme,Célibataire,Ariana,Sans emploi,Non,Attestation de Stage
+21,Homme,En Couple,Béja,Freelancer,Oui,Contrat Freelancer
+54,Femme,Marié(e),Ariana,Sans emploi,Non,Contrat de travail (CDI- CDD- CIVP)
+25,Homme,Célibataire,Tunis,Cadre,Oui,Contrat de travail (CDI- CDD- CIVP)
+36,Homme,Célibataire,Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+30,Homme,Célibataire,Tunis,Employé(e),Non,Contrat de location ou de vente de voiture
+27,Homme,Divorcé(e),Tunis,Employé(e),Oui,Contrat de Divorce ou Mariage
+28,Femme,En Couple,Ariana,Employé(e),Non,Contrat de location ou de vente de Bien immobilier
+25,Femme,Marié(e),Ariana,Freelancer,Oui,Contrat Freelancer
+30,Femme,Célibataire,Tunis,Freelancer,Non,Contrat Freelancer
+22,Femme,En Couple,La Mannouba,Sans emploi,Non,Contrat de travail (CDI- CDD- CIVP)
+30,Homme,Marié(e),Tunis,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+32,Femme,Marié(e),Bizerte,Employé(e),Non,Contrat de vente ou d'achat de materiels
+44,Femme,Marié(e),Zaghouan,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+38,Homme,Marié(e),Ariana,"Artisans, commerçants, chef d'entreprise",Oui,Contrat de location ou de vente de voiture
+70,Homme,Marié(e),Tunis,Retraité(e),Oui,Contrat d'assurance voyage
+70,Homme,Marié(e),Tunis,Freelancer,Oui,Contrat de location ou de vente de Bien immobilier
+25,Homme,Célibataire,Ariana,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+31,Femme,Marié(e),Ariana,Sans emploi,Non,Contrat de travail (CDI- CDD- CIVP)
+37,Homme,Marié(e),Ariana,"Artisans, commerçants, chef d'entreprise",Oui,Contrat de Partenariat
+40,Femme,Marié(e),Ariana,Employé(e),Non,Contrat de vente ou d'achat de materiels
+26,Homme,En Couple,Ben Arous,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+22,Femme,En Couple,Ben Arous,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+26,Homme,En Couple,Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+27,Femme,En Couple,Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+28,Homme,Célibataire,Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+27,Homme,En Couple,Ariana,Cadre,Oui,Contrat de location ou de vente de Bien immobilier
+58,Homme,Marié(e),Bizerte,Cadre,Oui,Contrat de vente ou d'achat de materiels
+53,Homme,Marié(e),Ariana,Cadre,Oui,Contrat d'assurance voyage
+22,Homme,Célibataire,Ariana,Sans emploi,Non,Contrat de travail (CDI- CDD- CIVP)
+55,Homme,Marié(e),Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+47,Homme,Marié(e),Sfax,Employé(e),Oui,Contrat de location ou de vente de voiture
+28,Homme,Célibataire,Ben Arous,Employé(e),Non,"Attestation de Stage, Contrat de travail (CDI- CDD- CIVP)"
+28,Femme,En Couple,Bizerte,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+52,Femme,Marié(e),Bizerte,Employé(e),Non,Contrat de vente ou d'achat de materiels
+27,Homme,Célibataire,Mahdia,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+45,Femme,Divorcé(e),Bizerte,Sans emploi,Oui,Contrat de Divorce ou Mariage
+32,Homme,Marié(e),La Mannouba,Cadre,Oui,Contrat de location ou de vente de voiture
+37,Femme,Marié(e),Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+24,Homme,En Couple,Ben Arous,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+33,Homme,Divorcé(e),Ben Arous,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+32,Femme,Marié(e),Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+45,Femme,Marié(e),Monastir,Employé(e),Oui,Contrat de location ou de vente de voiture
+32,Femme,Divorcé(e),Ariana,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+37,Femme,Marié(e),Ariana,Employé(e),Oui,Contrat de location ou de vente de voiture
+27,Homme,Célibataire,Tunis,Freelancer,Oui,Contrat Freelancer
+41,Femme,Célibataire,Tunis,Cadre,Non,Contrat de Partenariat
+52,Homme,Célibataire,Tunis,"Artisans, commerçants, chef d'entreprise",Oui,Contrat de vente ou d'achat de materiels
+65,Homme,Marié(e),Ben Arous,Retraité(e),Non,Contrat d'assurance voyage
+34,Femme,Célibataire,Tunis,Employé(e),Non,Contrat de travail (CDI- CDD- CIVP)
+68,Homme,Marié(e),Sfax,"Artisans, commerçants, chef d'entreprise",Oui,Contrat d'assurance voyage
+62,Femme,Divorcé(e),Tunis,Retraité(e),Oui,Contrat de location ou de vente de Bien immobilier
+29,Femme,Célibataire,Ariana,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+27,Homme,Célibataire,Bizerte,Employé(e),Oui,Contrat de travail (CDI- CDD- CIVP)
+35,Femme,Marié(e),La Mannouba,Cadre,Oui,Contrat de location ou de vente de voiture
+50,Femme,Marié(e),Ben Arous,Agriculteur,Oui,Contrat de location ou de vente de voiture
+42,Femme,Marié(e),Bizerte,Employé(e),Non,Contrat de location ou de vente de Bien immobilier
+30,Femme,En Couple,Tunis,Employé(e),Oui,Contrat de location ou de vente de Bien immobilier
+30,Homme,Célibataire,La Mannouba,Employé(e),Non,Attestation de Stage

@@ -1,0 +1,6 @@
+pandas
+sklearn
+joblib
+fastapi
+uvicorn
+pydotplus
