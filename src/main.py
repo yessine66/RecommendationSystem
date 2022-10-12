@@ -23,7 +23,7 @@ else :
     run_training()
     
 
-@app.get("/asba")
+@app.get("/hello")
 async def say_hello():
     return {"message": "hello world!"}
 
